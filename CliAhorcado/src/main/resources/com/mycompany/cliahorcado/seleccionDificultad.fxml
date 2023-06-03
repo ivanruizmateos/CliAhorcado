@@ -6,7 +6,7 @@
 <?import java.lang.*?>
 <?import javafx.scene.layout.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="760.0" prefWidth="1032.0" style="-fx-background-image: url(https://media.istockphoto.com/id/165812595/es/vector/ahorcado-pizarra-de-tiza.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=deoMs_tQALUU1chLxVO8V-we8RB3qmEwNQmljBhNm5M=); -fx-background-repeat: no-repeat; -fx-background-position: center; -fx-background-size: contain;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="760.0" prefWidth="1032.0" style="-fx-background-image: url(https://media.istockphoto.com/id/165812595/es/vector/ahorcado-pizarra-de-tiza.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=deoMs_tQALUU1chLxVO8V-we8RB3qmEwNQmljBhNm5M=); -fx-background-repeat: no-repeat; -fx-background-position: center; -fx-background-size: contain;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="DificultadController">
    <children>
       <VBox layoutX="125.0" layoutY="278.0" prefHeight="193.0" prefWidth="610.0" spacing="10.0" style="-fx-background-color: transparent;">
          <children>
